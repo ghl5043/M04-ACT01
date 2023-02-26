@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class helloworld {
+import java.io.*;
+public class helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
 }
